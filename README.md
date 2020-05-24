@@ -6,3 +6,10 @@
 
 2) In this part , you can see the folding in tray, but unfortunately the video's notification isn't working during the record : 
 ![part2](https://user-images.githubusercontent.com/38010166/82760028-fd4c1880-9e01-11ea-9d11-21b90e357732.gif)
+
+
+USED PACKEGES: 
+MetroFramework.1.2.0.3
+MetroFramework.Design.1.2.0.3
+MetroFramework.Fonts.1.2.0.3
+MetroFramework.RunTime.1.2.0.3
