@@ -1,0 +1,11 @@
+C:\Users\levan\source\repos\SteamGifKeyGenerator\SteamGifKeyGenerator\bin\Debug\SteamGifKeyGenerator.exe.config
+C:\Users\levan\source\repos\SteamGifKeyGenerator\SteamGifKeyGenerator\bin\Debug\SteamGifKeyGenerator.exe
+C:\Users\levan\source\repos\SteamGifKeyGenerator\SteamGifKeyGenerator\bin\Debug\SteamGifKeyGenerator.pdb
+C:\Users\levan\source\repos\SteamGifKeyGenerator\SteamGifKeyGenerator\obj\Debug\SteamGifKeyGenerator.csprojAssemblyReference.cache
+C:\Users\levan\source\repos\SteamGifKeyGenerator\SteamGifKeyGenerator\obj\Debug\SteamGifKeyGenerator.Main.resources
+C:\Users\levan\source\repos\SteamGifKeyGenerator\SteamGifKeyGenerator\obj\Debug\SteamGifKeyGenerator.Properties.Resources.resources
+C:\Users\levan\source\repos\SteamGifKeyGenerator\SteamGifKeyGenerator\obj\Debug\SteamGifKeyGenerator.csproj.GenerateResource.cache
+C:\Users\levan\source\repos\SteamGifKeyGenerator\SteamGifKeyGenerator\obj\Debug\SteamGifKeyGenerator.csproj.CoreCompileInputs.cache
+C:\Users\levan\source\repos\SteamGifKeyGenerator\SteamGifKeyGenerator\obj\Debug\SteamGifKeyGenerator.exe
+C:\Users\levan\source\repos\SteamGifKeyGenerator\SteamGifKeyGenerator\obj\Debug\SteamGifKeyGenerator.pdb
+C:\Users\levan\source\repos\SteamGifKeyGenerator\SteamGifKeyGenerator\obj\Debug\SteamGifKeyGenerator.csproj.Fody.CopyLocal.cache
