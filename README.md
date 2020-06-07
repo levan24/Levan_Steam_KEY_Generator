@@ -9,6 +9,8 @@
 
 
 USED PACKEGES: 
+Costura.Fody.4.1.0
+Fody.6.0.0
 MetroFramework.1.2.0.3
 MetroFramework.Design.1.2.0.3
 MetroFramework.Fonts.1.2.0.3
